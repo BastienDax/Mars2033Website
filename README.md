@@ -3,6 +3,8 @@ Hello !
 
 It's been 2 days now, I'm working on a website which is more or less based on the Netflix series/documentary "Mars".
 
+Ps : This isn't a mobile site yet.
+
 ### Clone or Download
 If you want clone or download the repo to your local machine, click on the green 'Clone or download' button.
 
